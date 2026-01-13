@@ -1,3 +1,3 @@
 
-// 此文件已废弃，请在 GitHub 网页端将其删除以保持仓库整洁。
+// 本文件已废弃。真正的逻辑位于 components/FileUploader.tsx
 export {};
