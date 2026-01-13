@@ -1,0 +1,15 @@
+
+{
+  "name": "beidou-novel-parser",
+  "version": "4.2.0",
+  "private": true,
+  "type": "module",
+  "description": "北斗智影小说素材解析工具",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
